@@ -5,7 +5,6 @@ Includes the following packages:
 - Bower
 - Grunt
 - Gumby Framework
-
 - Handlebars.js
 - jQuery.js
 - Modernizr.js
@@ -13,6 +12,7 @@ Includes the following packages:
 
 
 ### Instructions
+
 
 	> git clone git@github.com:khanio/gumby-project-boilerplate.git
 	> cd gumby-project-boilerplate
