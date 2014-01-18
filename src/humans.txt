@@ -1,0 +1,13 @@
+/* MAIN */
+  Develop & Main Design: Zakiullah Khan Mohammed
+  Twitter: @khan_io
+  Site: http://www.khanio.com
+
+/* SITE */
+  Last update: 18/01/2013
+  Doctype: HTML5
+  IDE: Sublime Text 2
+
+/* SPECIAL THANKS */
+
+  And, of course, all humanstxt.org team!
