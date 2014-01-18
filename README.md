@@ -2,14 +2,14 @@
 
 Includes the following packages:
 
-Bower
-Grunt
-Gumby Framework
+- Bower
+- Grunt
+- Gumby Framework
 
-Handlebars.js
-jQuery.js
-Modernizr.js
-jquery-handlebars.js
+- Handlebars.js
+- jQuery.js
+- Modernizr.js
+- jquery-handlebars.js
 
 
 ### Instructions
